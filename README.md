@@ -78,7 +78,7 @@ python -m venv .venv
 .venv\Scripts\activate
 
 # (Kalau Pakai Mac/Linux) 
-# source .venv/bin/activate
+source .venv/bin/activate
 
 # 4. Install dependencies
 pip install -r requirements.txt
@@ -87,4 +87,4 @@ pip install -r requirements.txt
 streamlit run dashboard/dashboard.py
 
 # Jika terjadi error
-# python -m streamlit run dashboard/dashboard.py
+python -m streamlit run dashboard/dashboard.py
