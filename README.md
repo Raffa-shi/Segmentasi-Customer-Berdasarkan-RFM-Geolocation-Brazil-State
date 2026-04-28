@@ -1,4 +1,4 @@
-# E-Commerce Customer & Geographic Analysis Dashboard
+# E-Commerce Segmentation Customer & Geographic Analysis Dashboard
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow)
@@ -69,7 +69,7 @@ Nama: [Raafa Syahidul]
 ```bash
 # 1. Clone repository
 git clone <repository-url>
-cd submission_raafa
+cd git@github.com:Raffa-shi/Segmentasi-Customer-Berdasarkan-RFM-Geolocation-Brazil-State.git
 
 # 2. Buat virtual environment
 python -m venv .venv
