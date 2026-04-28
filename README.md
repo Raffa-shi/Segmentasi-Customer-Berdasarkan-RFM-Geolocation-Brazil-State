@@ -9,7 +9,7 @@
 ---
 
 ## Overview
-Proyek ini bertujuan untuk menganalisis perilaku pelanggan dan distribusi geografis berdasarkan dataset e-commerce periode 2016–2018.
+Proyek ini bertujuan untuk menganalisis perilaku pelanggan dan distribusi geografis berdasarkan dataset e-commerce periode 2016 – 2018.
 
 Analisis difokuskan pada:
 - Segmentasi pelanggan menggunakan metode RFM (Recency, Frequency, Monetary)
@@ -49,6 +49,20 @@ Hasil analisis divisualisasikan dalam bentuk dashboard interaktif menggunakan St
 - Terdapat korelasi antara jumlah order dan total revenue di wilayah utama.  
 
 ---
+## Technologies Used
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
+
+---
+
+## Author
+
+Nama: [Raafa Syahidul]
+
+---
 
 ## How to Run the Dashboard
 
@@ -63,7 +77,7 @@ python -m venv .venv
 # 3. Aktifkan virtual environment (Windows)
 .venv\Scripts\activate
 
-# (Mac/Linux)
+# (Kalau Pakai Mac/Linux) 
 # source .venv/bin/activate
 
 # 4. Install dependencies
