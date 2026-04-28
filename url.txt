@@ -1,1 +1,1 @@
-http://10.107.152.219:8501
+https://gitignore-jnzwjfad6e9bkbgnzzhxbt.streamlit.app/
